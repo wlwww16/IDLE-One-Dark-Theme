@@ -4,7 +4,7 @@ A custom Python IDLE colour theme based off of Atom's One Dark theme.
 # Setup
 1. Ensure IDLE is closed.
 2. Open your file explorer.<br>
-3. Go to your `idlerc` directory. On Windows, it's C:\Users\%username%\.idlerc\<br>
+3. Go to your `idlerc` directory. On Windows, it's `C:\Users\%username%\.idlerc`.<br>
 4. Copy the new `config-highlight.cfg` file from <a href="https://cdn.rawgit.com/LumiteDubbz/IDLE-One-Dark-Theme/4059d386/config-highlight.cfg">here</a>.<br>
 5. Open IDLE, click on "Options" at the top of the window, click "Configure IDLE", open the "Highlighting" tab, choose "a Custom theme" and click on "Atom One Dark."
 6. Apply and exit.
