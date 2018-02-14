@@ -14,4 +14,4 @@ A custom Python IDLE colour theme based off of Atom's One Dark theme.
 <img src="https://github.com/LumiteDubbz/IDLE-One-Dark-Theme/blob/master/Screenshot.png?raw=true" alt="Go to https://github.com/LumiteDubbz/IDLE-One-Dark-Theme/blob/master/Screenshot.png?raw=true if this image did not load."></img>
 
 # Footnote
-Some colours are not perfect, this is because IDLE's customisation menus are not the most extensive. Nothing I can do about it ¯\_(ツ)_/¯
+Some colours are not perfect, this is because IDLE's customisation menus are not the most extensive. Nothing I can do about it ¯\\\_(ツ)_/¯
